@@ -1,0 +1,47 @@
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe.config
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csprojResolveAssemblyReference.cache
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.Properties.Resources.resources
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csproj.GenerateResource.Cache
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.pdb
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.exe
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.pdb
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.frmdn.resources
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.FrmMain.resources
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe.config
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.exe
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.pdb
+<<<<<<< HEAD
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.pdb
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csprojResolveAssemblyReference.cache
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.BanHang.resources
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.frmdn.resources
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.FrmMain.resources
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.Properties.Resources.resources
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csproj.GenerateResource.Cache
+=======
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe.config
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.exe
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.pdb
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.pdb
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.frmdn.resources
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.FrmMain.resources
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.Properties.Resources.resources
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csproj.GenerateResource.Cache
+>>>>>>> be7e503a596096533439f17744841285cee470b1
+C:\Users\MaiLinh\Desktop\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe.config
+C:\Users\MaiLinh\Desktop\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.exe
+C:\Users\MaiLinh\Desktop\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.pdb
+D:\Tài liệu\Thực tập nhóm_TH14\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe.config
+D:\Tài liệu\Thực tập nhóm_TH14\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.exe
+D:\Tài liệu\Thực tập nhóm_TH14\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.pdb
+D:\Tài liệu\Thực tập nhóm_TH14\QLBanHangChoSieuThi\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe.config
+D:\Tài liệu\Thực tập nhóm_TH14\QLBanHangChoSieuThi\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.exe
+D:\Tài liệu\Thực tập nhóm_TH14\QLBanHangChoSieuThi\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.pdb
+C:\Users\tobmo\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe.config
+C:\Users\tobmo\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.exe
+C:\Users\tobmo\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.pdb
+>>>>>>> 6c7937f1a18a9398d081aadaa68c6fde659bbc1e
