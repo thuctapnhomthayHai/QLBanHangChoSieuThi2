@@ -45,3 +45,6 @@ C:\Users\tobmo\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu
 C:\Users\tobmo\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.exe
 C:\Users\tobmo\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.pdb
 >>>>>>> 6c7937f1a18a9398d081aadaa68c6fde659bbc1e
+D:\Tài liệu\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe.config
+D:\Tài liệu\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.exe
+D:\Tài liệu\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.pdb
