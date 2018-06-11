@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using System.Data.SqlClient;
 namespace Quản_lý_bán_hàng_siêu_thị
 {
     public partial class FrmMain : Form
@@ -29,6 +29,7 @@ namespace Quản_lý_bán_hàng_siêu_thị
             this.Hide();
             BangKhachHang KH = new BangKhachHang();
             KH.ShowDialog();
+            DataTable dt = new DataTable();
         }
     }
 }

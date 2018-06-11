@@ -43,6 +43,7 @@ namespace Quản_lý_bán_hàng_siêu_thị
         {
             if (btnThem.Enabled == false)
             {
+                int index = 0;
                 MessageBox.Show("Đang ở chế độ thêm mới!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 txtMaHang.Focus();
                 return;
