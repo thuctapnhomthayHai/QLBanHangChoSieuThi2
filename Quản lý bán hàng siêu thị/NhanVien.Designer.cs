@@ -136,7 +136,7 @@
             this.groupBox1.Controls.Add(this.txtMaNV);
             this.groupBox1.Location = new System.Drawing.Point(45, 21);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(751, 214);
+            this.groupBox1.Size = new System.Drawing.Size(767, 214);
             this.groupBox1.TabIndex = 16;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Thông tin ";
