@@ -77,6 +77,7 @@
             this.quảnLýKháchHàngToolStripMenuItem1.Name = "quảnLýKháchHàngToolStripMenuItem1";
             this.quảnLýKháchHàngToolStripMenuItem1.Size = new System.Drawing.Size(125, 20);
             this.quảnLýKháchHàngToolStripMenuItem1.Text = "Quản lý khách hàng";
+            this.quảnLýKháchHàngToolStripMenuItem1.Click += new System.EventHandler(this.quảnLýKháchHàngToolStripMenuItem1_Click);
             // 
             // quảnLýNhânViênToolStripMenuItem
             // 

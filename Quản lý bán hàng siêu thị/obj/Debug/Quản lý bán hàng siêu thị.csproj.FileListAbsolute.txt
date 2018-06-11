@@ -48,3 +48,16 @@ C:\Users\tobmo\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu
 D:\Tài liệu\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe.config
 D:\Tài liệu\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.exe
 D:\Tài liệu\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.pdb
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe.config
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.exe
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.pdb
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.pdb
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csprojResolveAssemblyReference.cache
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.BanHang.resources
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.frmdn.resources
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.FrmMain.resources
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.Properties.Resources.resources
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.ThongKe.resources
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csproj.GenerateResource.Cache
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.BangKhachHang.resources

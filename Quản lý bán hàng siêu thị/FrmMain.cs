@@ -23,5 +23,12 @@ namespace Quản_lý_bán_hàng_siêu_thị
             bh.Show();
             this.Hide();
         }
+
+        private void quảnLýKháchHàngToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            BangKhachHang KH = new BangKhachHang();
+            KH.ShowDialog();
+        }
     }
 }
