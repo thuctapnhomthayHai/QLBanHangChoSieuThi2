@@ -16,7 +16,7 @@ namespace Quản_lý_bán_hàng_siêu_thị
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmdn());
+            Application.Run(new NhanVien());
  
         }
     }
