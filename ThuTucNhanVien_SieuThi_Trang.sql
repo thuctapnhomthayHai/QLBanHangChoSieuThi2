@@ -1,3 +1,4 @@
+﻿--thủ tục xem nhân viên
 CREATE PROC ShowNhanVien
 AS
 BEGIN
