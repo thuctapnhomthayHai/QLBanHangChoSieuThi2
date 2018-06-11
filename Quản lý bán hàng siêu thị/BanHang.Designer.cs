@@ -50,7 +50,7 @@
             this.btnXoa = new System.Windows.Forms.Button();
             this.btnSua = new System.Windows.Forms.Button();
             this.btnThem = new System.Windows.Forms.Button();
-            this.label8 = new System.Windows.Forms.Label();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
             ((System.ComponentModel.ISupportInitialize)(this.dtg_QLBH)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dtgQLBH)).BeginInit();
             this.SuspendLayout();
@@ -285,25 +285,22 @@
             this.btnThem.UseVisualStyleBackColor = true;
             this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
-            // label8
+            // groupBox1
             // 
-            this.label8.BackColor = System.Drawing.SystemColors.MenuHighlight;
-            this.label8.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label8.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.label8.Location = new System.Drawing.Point(0, 0);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(904, 34);
-            this.label8.TabIndex = 5;
-            this.label8.Text = "Quản lý bán hàng";
-            this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.groupBox1.Font = new System.Drawing.Font("Times New Roman", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.groupBox1.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.groupBox1.Location = new System.Drawing.Point(0, 5);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(904, 458);
+            this.groupBox1.TabIndex = 5;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Quản Lý Bán Hàng";
             // 
             // BanHang
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(904, 505);
-            this.Controls.Add(this.label8);
             this.Controls.Add(this.dtg_QLBH);
             this.Controls.Add(this.cbxTimKiemTheo);
             this.Controls.Add(this.btnTimKiem);
@@ -325,6 +322,7 @@
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label1);
+            this.Controls.Add(this.groupBox1);
             this.Name = "BanHang";
             this.Text = "BanHang";
             this.Load += new System.EventHandler(this.BanHang_Load);
@@ -359,6 +357,6 @@
         private System.Windows.Forms.Button btnTimKiem;
         private System.Windows.Forms.DataGridView dtg_QLBH;
         private System.Windows.Forms.DataGridView dtgQLBH;
-        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.GroupBox groupBox1;
     }
 }

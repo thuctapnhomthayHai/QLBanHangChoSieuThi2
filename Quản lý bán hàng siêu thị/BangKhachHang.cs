@@ -231,5 +231,15 @@ namespace Quản_lý_bán_hàng_siêu_thị
             if (e.KeyCode == Keys.Enter)
                 SendKeys.Send("{TAB}");
         }
+
+        private void btnHuy_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnThoat_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
