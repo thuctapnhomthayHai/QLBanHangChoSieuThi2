@@ -71,3 +71,17 @@ D:\Tài liệu\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàn
 D:\Tài liệu\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.Properties.Resources.resources
 D:\Tài liệu\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.ThongKe.resources
 D:\Tài liệu\Thực tập nhóm_TH14\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe.config
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.exe
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.pdb
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.pdb
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.BangKhachHang.resources
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.BanHang.resources
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.frmdn.resources
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.FrmMain.resources
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.NhanVien.resources
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.Properties.Resources.resources
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.ThongKe.resources
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi2\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csproj.GenerateResource.Cache
